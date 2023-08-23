@@ -1,0 +1,18 @@
+.heading{
+    width: 100%;
+    font-size: 35px;
+    margin:0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#subtitle{
+    color:aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border-radius: 13px;
+    border: 2px solid grey;
+    margin-top: 100px;
+    background-color: red;
+    
+}
